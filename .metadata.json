@@ -1,0 +1,18 @@
+[
+  {
+    "package": "BWGS",
+    "oncran": true
+  },
+  {
+    "package": "expDB",
+    "oncran": true
+  },
+  {
+    "package": "rapsimng",
+    "oncran": true
+  },
+  {
+    "package": "weaana",
+    "oncran": true
+  }
+]

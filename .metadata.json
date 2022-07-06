@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "rtiddlywiki",
+    "oncran": true
+  },
+  {
     "package": "weaana",
     "oncran": true
   }

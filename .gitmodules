@@ -18,6 +18,11 @@
 	url = https://github.com/byzheng/rapsimng
 	shallow = true
 	registered = true
+[submodule "rtiddlywiki"]
+	path = rtiddlywiki
+	url = https://github.com/byzheng/rtiddlywiki
+	shallow = true
+	registered = true
 [submodule "weaana"]
 	path = weaana
 	url = https://github.com/byzheng/weaana

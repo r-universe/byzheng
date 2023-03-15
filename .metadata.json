@@ -1,6 +1,6 @@
 [
   {
-    "package": "BWGS",
+    "package": "rtiddlywiki",
     "oncran": true
   },
   {
@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "rapsimng",
+    "package": "BWGS",
     "oncran": true
   },
   {
-    "package": "rtiddlywiki",
+    "package": "rapsimng",
     "oncran": true
   },
   {

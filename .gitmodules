@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "BWGS"]
-	path = BWGS
-	url = https://github.com/byzheng/bwgs
+[submodule "rtiddlywiki"]
+	path = rtiddlywiki
+	url = https://github.com/byzheng/rtiddlywiki
 	shallow = true
 	registered = true
 [submodule "expDB"]
@@ -13,14 +13,14 @@
 	url = https://github.com/byzheng/expdb
 	shallow = true
 	registered = true
+[submodule "BWGS"]
+	path = BWGS
+	url = https://github.com/byzheng/bwgs
+	shallow = true
+	registered = true
 [submodule "rapsimng"]
 	path = rapsimng
 	url = https://github.com/byzheng/rapsimng
-	shallow = true
-	registered = true
-[submodule "rtiddlywiki"]
-	path = rtiddlywiki
-	url = https://github.com/byzheng/rtiddlywiki
 	shallow = true
 	registered = true
 [submodule "weaana"]

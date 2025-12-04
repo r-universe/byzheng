@@ -14,6 +14,9 @@
 [submodule "rtiddlywiki"]
 	path = rtiddlywiki
 	url = https://github.com/byzheng/rtiddlywiki
+[submodule "taskqueue"]
+	path = taskqueue
+	url = https://github.com/byzheng/taskqueue
 [submodule "weaana"]
 	path = weaana
 	url = https://github.com/byzheng/weaana

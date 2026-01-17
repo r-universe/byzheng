@@ -17,6 +17,9 @@
 [submodule "taskqueue"]
 	path = taskqueue
 	url = https://github.com/byzheng/taskqueue
+[submodule "tidyweather"]
+	path = tidyweather
+	url = https://github.com/byzheng/tidyweather
 [submodule "weaana"]
 	path = weaana
 	url = https://github.com/byzheng/weaana

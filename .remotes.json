@@ -1,0 +1,8 @@
+[
+  {
+    "package": "optree",
+    "url": "https://github.com/byzheng/optree",
+    "via": ["tidyweather"],
+    "from": "tidyweather"
+  }
+]

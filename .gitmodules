@@ -8,6 +8,9 @@
 [submodule "expDB"]
 	path = expDB
 	url = https://github.com/byzheng/expdb
+[submodule "optree"]
+	path = optree
+	url = https://github.com/byzheng/optree
 [submodule "rapsimng"]
 	path = rapsimng
 	url = https://github.com/byzheng/rapsimng

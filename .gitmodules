@@ -14,9 +14,27 @@
 [submodule "rapsimng"]
 	path = rapsimng
 	url = https://github.com/byzheng/rapsimng
+[submodule "rapsimng.canola"]
+	path = rapsimng.canola
+	url = https://github.com/byzheng/rapsimng.canola
+[submodule "rapsimng.chickpea"]
+	path = rapsimng.chickpea
+	url = https://github.com/byzheng/rapsimng.chickpea
 [submodule "rapsimng.decide.core"]
 	path = rapsimng.decide.core
 	url = https://github.com/byzheng/rapsimng.decide.core
+[submodule "rapsimng.fababean"]
+	path = rapsimng.fababean
+	url = https://github.com/byzheng/rapsimng.fababean
+[submodule "rapsimng.lentil"]
+	path = rapsimng.lentil
+	url = https://github.com/byzheng/rapsimng.lentil
+[submodule "rapsimng.lupin"]
+	path = rapsimng.lupin
+	url = https://github.com/byzheng/rapsimng.lupin
+[submodule "rapsimng.wheat"]
+	path = rapsimng.wheat
+	url = https://github.com/byzheng/rapsimng.wheat
 [submodule "rtiddlywiki"]
 	path = rtiddlywiki
 	url = https://github.com/byzheng/rtiddlywiki

@@ -35,9 +35,6 @@
 [submodule "rapsimng.wheat"]
 	path = rapsimng.wheat
 	url = https://github.com/byzheng/rapsimng.wheat
-[submodule "rtiddlywiki"]
-	path = rtiddlywiki
-	url = https://github.com/byzheng/rtiddlywiki
 [submodule "taskqueue"]
 	path = taskqueue
 	url = https://github.com/byzheng/taskqueue

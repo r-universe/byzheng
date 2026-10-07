@@ -23,6 +23,15 @@
 [submodule "rapsimng.decide.core"]
 	path = rapsimng.decide.core
 	url = https://github.com/byzheng/rapsimng.decide.core
+[submodule "rapsimng.decide.cultivar"]
+	path = rapsimng.decide.cultivar
+	url = https://github.com/byzheng/rapsimng.decide.cultivar
+[submodule "rapsimng.decide.nitrogen"]
+	path = rapsimng.decide.nitrogen
+	url = https://github.com/byzheng/rapsimng.decide.nitrogen
+[submodule "rapsimng.decide.sowing"]
+	path = rapsimng.decide.sowing
+	url = https://github.com/byzheng/rapsimng.decide.sowing
 [submodule "rapsimng.fababean"]
 	path = rapsimng.fababean
 	url = https://github.com/byzheng/rapsimng.fababean

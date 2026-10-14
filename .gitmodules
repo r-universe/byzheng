@@ -5,6 +5,9 @@
 [submodule "BWGS"]
 	path = BWGS
 	url = https://github.com/byzheng/bwgs
+[submodule "apsimwise"]
+	path = apsimwise
+	url = https://github.com/byzheng/apsimwise
 [submodule "expDB"]
 	path = expDB
 	url = https://github.com/byzheng/expdb

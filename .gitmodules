@@ -23,6 +23,9 @@
 [submodule "rapsimng.chickpea"]
 	path = rapsimng.chickpea
 	url = https://github.com/byzheng/rapsimng.chickpea
+[submodule "rapsimng.decide"]
+	path = rapsimng.decide
+	url = https://github.com/byzheng/rapsimng.decide
 [submodule "rapsimng.decide.core"]
 	path = rapsimng.decide.core
 	url = https://github.com/byzheng/rapsimng.decide.core
